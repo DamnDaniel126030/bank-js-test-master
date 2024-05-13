@@ -1,0 +1,8 @@
+vitest:
+https://vitest.dev/
+
+vite - build rendszer fejlesztői (akik a vue keretrendszer fejlesztői) készítették  
+https://vitejs.dev/
+
+jest keretrendszerhez hasonlóan működik, annak a hiányosságait pótolja, hogy vite és ECMAScript module kompatibilis legyen
+https://jestjs.io/
